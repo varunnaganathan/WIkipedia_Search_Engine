@@ -1,0 +1,2 @@
+#!/bin/bash
+python 201430012.py $1 $2
